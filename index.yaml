@@ -1,0 +1,18 @@
+apiVersion: v1
+entries:
+  superset:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2023-08-01T07:36:36.920819+05:30"
+    dependencies:
+    - name: superset
+      repository: https://apache.github.io/superset
+      version: 0.8.5
+    description: Pairity installation of Apache Superset
+    digest: d200747bf5488ca986f9855a83a6b49f6722a221fa39dc524aca7e511e9912a0
+    name: superset
+    type: application
+    urls:
+    - https://github.com/shanbagarajanbalasubramanian/pairity-score-superset/superset-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-08-01T07:36:36.912372+05:30"
